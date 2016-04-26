@@ -1,4 +1,4 @@
-# Text replacer (Chrome extension)
+## Text replacer (Chrome extension)
 A Chrome extension that replaces any text on any website
 
 Link to Chrome Web Store: <br>
