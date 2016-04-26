@@ -1,0 +1,61 @@
+* {
+  color: #222;
+  margin: 0;
+  padding: 0;
+}
+body {
+  background: #F5F5F5;
+  font-family: Roboto, 'Helvetica Neue' !important;
+}
+.wrapper {
+  padding: 10px 20px;
+}
+a {
+  cursor: pointer !important;
+}
+a.delete {
+  text-decoration: none !important;
+}
+a.delete > strong {
+  color: #2196f3 !important;
+}
+a.delete > strong:hover {
+  color: #1565C0 !important;
+}
+button {
+  margin-top: 10px;
+  margin-left: 33px;
+  margin-bottom: 10px;
+  font-size: 14px;
+}
+i {
+  color: white !important;
+}
+td, th {
+  padding-top: 4px !important;
+  padding-bottom: 4px !important;
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+  margin: 0;
+}
+td:not(:last-child),
+th {
+  padding-left: 0px !important;
+  padding-right: 20px !important;
+}
+input[type=text] {
+  height: 2rem !important;
+  margin-bottom: 0 !important;
+  font-size: 1.1rem;
+}
+.input-field {
+  margin-top: 0 !important;
+}
+.input-field input[type=text]:focus {
+  border-bottom: 1px solid #2196f3;
+  box-shadow: 0 1px 0 0 #2196f3;
+}
+.checkbox {
+  margin-top: 5px !important;
+  margin-bottom: 5px !important;
+}
